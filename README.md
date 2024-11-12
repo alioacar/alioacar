@@ -1,7 +1,7 @@
 ## Hey there, I'm Ali 👋
 
 <p><em>Scientific Programmer at <a href='https://ims.metu.edu.tr/'>METU Institute of Marine Sciences</a>
- <img align='right' src="./blacksea.png" width="470">
+ <img align='right' src="./blacksea.png" width="450">
  
  ![Fortran](https://img.shields.io/badge/Code-Fortran-734F96?logo=fortran&logoColor=fff)
  ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
